@@ -586,5 +586,68 @@ a{
   #secondpage{
     height: 5px;
     width: 10px;
-    background-color: #14f31f;
+    /* background-color: #14f31f; */
   }
+  #containerlivescore{
+    height: 550px;
+    margin-top: 10px;
+    /* background-color: #14f31f; */
+  }
+  #add6{
+    width: 95%;
+  }
+  #subcontainer{
+   display: flex;
+  }
+  #scoreBar{
+    width: 75%;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    border: 1px solid;
+  }
+  #scoreBar1:hover{
+  color: #03a9f4;
+  }
+  #grid{
+    /* display: flex; */
+    
+    width: 300px;
+    
+    
+}
+
+#gridcontainer{
+    width: 75%;
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid blue;
+    /* grid-template-columns: repeat(2,1fr); */
+}
+#text222{
+    padding: 20px;
+}
+.container5551{
+    
+    height: 150px;
+    margin: 10px;
+    width: 290px; 
+    /* border: 1px solid green; */
+    margin-top: 30px;
+    margin-right: 30px;
+    background-color: white;
+    border-radius: 13px;
+}
+
+#righTbar{
+    height: 300px;
+    width: 280px;
+   
+    border: 1px solid;
+}
+
+#lastContainer{
+ display: flex;
+}
