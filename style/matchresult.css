@@ -28,15 +28,15 @@
     height: 30px;
     /* width: 100%; */
     padding: 10px;
-    border: 1px solid rgb(0, 255, 153);
-   display: flex;
+    /* border: 1px solid rgb(0, 255, 153); */
+    display: flex;
     color: white;
    
 }
 #livescrore{
     height: 40px;
     width: 650px;
-    border: 1px solid rgb(231, 46, 255);
+    /* border: 1px solid rgb(231, 46, 255); */
     margin-top: 0px;
     display: flex;
     justify-content: space-evenly;
@@ -54,15 +54,15 @@ a{
 #logo{
     width: 100px;
     height: 100%;
-    border: 1px solid green;  
-    border: 1px solid red; 
+    /* border: 1px solid green;   */
+    /* border: 1px solid red;  */
 }
 #container2{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* height: 700px; */
 }
 #add{
-        border: 1px solid red;
+        /* border: 1px solid red; */
         padding: 15px;
         width: 950px;
         height:290px;
@@ -83,7 +83,7 @@ a{
     width: 70%;
     margin: auto;
     padding: 10px;
-    border: 1px solid #08abf4;
+   
     border-radius: 25px;
     text-align: center;
     color: #03a9f4;
@@ -95,7 +95,7 @@ a{
     /* padding: 5px; */
     /* font-size: 16px; */
     /* border: none; */
-    border: 1px solid #14f31f;
+    /* border: 1px solid #14f31f; */
     border: none;
     background-color: #03a9f4;
     color: white;
@@ -153,7 +153,7 @@ a{
 #bottombarright{
   height: 40px;
   width: 350px;
-  border: 1px solid rgb(255, 221, 26);
+  /* border: 1px solid rgb(255, 221, 26); */
   margin: auto;
   margin-right: 20px;
   display: flex;
@@ -167,13 +167,13 @@ a{
 #keyseries{
     width: 100%;
     /* height: 250px; */
-    border: 1px solid pink;
+    /* border: 1px solid pink; */
     margin-top: 10px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 #keyseries1{
    padding: 10px;
-   border: 1px solid pink;
+   /* border: 1px solid pink; */
    height: 21px;
    font-size: 17px;
    font-weight: 550;
@@ -240,7 +240,7 @@ a{
     height: 25px;
     margin-top: 20px;
     padding: 5px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 #text10{
     font-size: 13px;
@@ -263,7 +263,7 @@ a{
     font-size: 11px;
     display: flex;
     width:420px;
-    border: 1px solid blueviolet;
+    /* border: 1px solid blueviolet; */
     
   }
   #logo3{
@@ -305,7 +305,7 @@ a{
  
 
 #footer{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 500px;
     margin-top: 20px;
     display: flex;
@@ -460,7 +460,7 @@ a{
   #secondpage{
     height: 5px;
     width: 10px;
-    background-color: #14f31f;
+    /* background-color: #14f31f; */
   }
   #aDd2img{
    width: 100%;
@@ -471,50 +471,50 @@ a{
     margin-top: 100px;
     /* height: 190px; */
     display: flex;
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
     padding: 50px;
   }
 
   #ScoreCard{
     width: 780px;
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
   }
   #scoreBar{
     display: flex;
     height: 35px;
     justify-content: space-evenly;
     padding: 5px;
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
   }
   #scoreBar1{
     padding: 5px;
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
   }
   #scoreBar1:hover{
     color: #48c5ff;
     line-height: 20px;
     text-decoration:underline;
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
   }
   #News11{
     padding: 5px;
     height: 360px;
     display: flex;
-    border: 1px solid rgb(224, 24, 217);
+    /* border: 1px solid rgb(224, 24, 217); */
   }
   #news11img{
     padding: 15px;
     width: 400px;
     height: 80%;    
     margin-top: 20px;
-    border: 1px solid rgb(0, 234, 255);
+    /* border: 1px solid rgb(0, 234, 255); */
   }
   #news11text{
     padding: 40px;
     height: 370px;
     margin: auto;
     margin-top: 50px;
-    border: 1px solid rgb(0, 234, 255);
+    /* border: 1px solid rgb(0, 234, 255); */
   }
   #news11head{
    font-size: 24px;
@@ -535,5 +535,5 @@ a{
     width: 490px;
     margin: 20px;
     /* margin-top: 50px; */
-    border: 1px solid rgb(0, 234, 255);
+    /* border: 1px solid rgb(0, 234, 255); */
   }
